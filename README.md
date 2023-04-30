@@ -9,10 +9,10 @@ This project demonstrates expertise in topic modeling, data analysis, and data v
 
 ![Top-30.](images/Top-30.png)
 
-![topic evolution.](topic-evolution.png)
+![topic evolution.](images/topic-evolution.png)
 
-![Bar Chart.](bar-chart.png)
+![Bar Chart.](images/bar-chart.png)
 
-![Popular Topics.](popular-topics.png)
+![Popular Topics.](images/popular-topics.png)
 
 DATA FILES ARE TOO BIG TO UPLOAD HERE ON GITHUB
