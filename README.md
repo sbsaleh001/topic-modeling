@@ -5,6 +5,12 @@ Implemented LDA to discover underlying topics in the dataset by identifying the 
 
 This project demonstrates expertise in topic modeling, data analysis, and data visualization techniques. The GitHub repository serves as a valuable resource for researchers, data enthusiasts, and anyone interested in exploring text data. The code and resources provided are useful for further analysis or adaptation for other similar projects.
 
+![topic evolution.](topic-evolution0.png)
+
+![Top-30.](Top-30.png)
+
+![Bar Chart.](bar-chart.png)
+
 ![Popular Topics.](popular-topics.png)
 
 DATA FILES ARE TOO BIG TO UPLOAD HERE ON GITHUB
