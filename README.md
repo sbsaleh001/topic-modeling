@@ -7,7 +7,7 @@ This project demonstrates expertise in topic modeling, data analysis, and data v
 
 
 
-![Top-30.](Top-30.png)
+![Top-30.](images/Top-30.png)
 
 ![topic evolution.](topic-evolution.png)
 
